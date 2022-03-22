@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nyantahi
 - 👀 I’m interested in Solidity
-- 🌱 I’m currently learning to deploy contracts on test nest
-- 💞️ I’m looking to collaborate on smart contracts projects
+- 🌱 I’m working on Solidity smart contracts projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me here
 
 <!---
