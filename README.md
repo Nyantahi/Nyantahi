@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nyantahi
-- 👀 I’m interested in Solidity
+- 👀 I’m interested in Pyhthon + Solidity + HTML5
 - 🌱 I’m working on Solidity smart contracts projects
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me here
