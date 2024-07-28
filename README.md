@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nyantahi
 - 👀 I’m interested in Python + HTML5
-- 🌱 I’m working on the IBM Professional Data Science Certificate Capstone
+- 🌱 IBM Professional Data Science Certificate
 - 💞️ I’m looking to collaborate on data science, AI, and ML projects
 
 <!---
