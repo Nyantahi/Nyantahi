@@ -21,7 +21,7 @@ React, TypeScript, Next.js, Tailwind CSS
 
 **Backend**
 ```text
-Node.js, Python, PostgreSQL, Redis
+Rust, Python, Node.js, PostgreSQL, Redis
 ```
 
 **AI / ML**
