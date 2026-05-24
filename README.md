@@ -8,7 +8,7 @@ Currently architecting an **AI-powered platform** that streamlines business oper
 ## 🔭 What I'm Working On
 - 🚀 Insurance platform with ML driven insights  
 - 🤖 AI-powered automation for business workflows  
-- 📊 [Data analytics tools for predictive business intelligence ](https://github.com/Nyantahi/chibby) 
+- 📊 [Open-source CI/CD and deployment tool for solo developers and tiny teams ](https://github.com/Nyantahi/chibby) 
 
 ---
 
