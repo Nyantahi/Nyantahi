@@ -1,6 +1,6 @@
 # 👋 Innovation Engineer & Product Architect
 
-Building intelligent financial tools that solve real problems for modern professionals.  
+Building intelligent tools that solve real problems for modern professionals.  
 Currently architecting an **AI-powered platform** that streamlines business operations through smart automation and data insights.
 
 ---
